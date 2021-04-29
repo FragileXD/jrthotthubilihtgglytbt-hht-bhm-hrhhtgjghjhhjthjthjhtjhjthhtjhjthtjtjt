@@ -10,15 +10,15 @@
   "yirmidavet": "20 INVITES ROLE ID",
   "bdfd": "BDFD ROLE ID",
 
-  "sitecreator" : "WEBSITE DEVELOPERS ROLE ID",
-  "booster": "SERVER BOOSTER ROLE ID",
-  "sponsor": "SPONSOR ROLE ID",
-  "supporter": "SUPPORTER ROLE ID",
+  "sitecreator" : "836726602519412806",
+  "booster": "837151660845039682",
+  "sponsor": "837152060536782848",
+  "supporter": "837152052911144990",
 
-  "developer": "BOT DEVELOPER ROLE ID",
+  "developer": "836730217712058418",
   "certified_developer": "CERTIFIED BOT DEVELOPER ID",
-  "bot": "APPROVED BOT ROLE ID",
+  "bot": "837149299808665672",
   "certified_bot": "CERTIFIED BOT ROLE ID",
-  "premium_developer": "PREMIUM ROLE ID",
+  "premium_developer": ".",
   "premium_bot": "PREMIUM BOT ROLE ID"
 }
