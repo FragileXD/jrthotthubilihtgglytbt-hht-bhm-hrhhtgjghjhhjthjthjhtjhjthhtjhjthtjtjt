@@ -1,8 +1,8 @@
 {
-  "token": "BOT TOKEN",
-  "prefix" : "BOT PREFIX",
-  "owner" : ["","",""],
-  "clientid" : "BOT ID",
+  "token": "ODM2Nzl3NjAwMDY3MTE3MDk2.YliNTQ.23YCEadoF_ogDMUZbZspNpl1RdE",
+  "prefix" : "vbl",
+  "owner" : ["738988218002964581"],
+  "clientid" : "8367276000067117096",
   "clientsecret" : "BOT SECRET",
   "clientcallback" : "CALLBACK URL",
   "mongoURL" : "MongoDB URL",
